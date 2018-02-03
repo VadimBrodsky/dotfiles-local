@@ -1,3 +1,6 @@
 - link:
     ~/.tmux_local.conf: tmux_local.conf
+    ~/.config/fish/fish_local.fish:
+        create: true
+        path: fish_local.fish 
 
